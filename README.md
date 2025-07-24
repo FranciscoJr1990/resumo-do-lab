@@ -1,4 +1,5 @@
 ✅ Resumo de Aprendizagem – Módulo 1: Conceitos de Nuvem (AZ-900)
+
 📌 1. Definição de Computação em Nuvem
 A computação em nuvem é o fornecimento de serviços de computação (como servidores, armazenamento, banco de dados, rede, software) pela Internet.
 
